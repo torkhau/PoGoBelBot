@@ -1,0 +1,24 @@
+{
+  "name": "pogo_bot",
+  "version": "0.0.1",
+  "description": "Telegram bot for groups players \"Pokemon Go\"",
+  "main": "index.js",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.40.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.13.0"
+  },
+  "keywords": [
+    "Pokemon",
+    "Pokemon",
+    "GO",
+    "PoGo_Bot"
+  ],
+  "author": "Torkhau@gmail.com",
+  "license": "ISC"
+}
